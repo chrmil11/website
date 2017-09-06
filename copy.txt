@@ -18,3 +18,15 @@ knowledge. I didn't know much, but brute force got me and my partner 13th out of
 40 pairs, a free shirt, and new knowledge of functionalities that I haven't
 learned yet. The awe, frustration, and excitement I felt from that day inspired
 me to continue to follow this computing path.
+
+I remember from my CS 331: Data Structures course when my instructor was giving
+his introduction about his class, and he asked the students, "What is computer
+science?" He then proceeded to split up the term. "Well, computers are just
+things that compute. And being computer scientists, that must mean we work with
+computers all the time, right?" I would've said yes, but he shut down my
+response saying that we probably spend 10-20 percent of our time coding in front
+of a computer. "Then what about science? Is it a science like biology, physics,
+or chemistry?" Kind of. There is research and testing involved, but we don't get
+a fancy lab coat. "Then what in the world does a computer scientist do?"
+
+He flips to the next slide and proceeds on to saying, "We're just professional problem solvers."
