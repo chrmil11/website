@@ -29,4 +29,16 @@ of a computer. "Then what about science? Is it a science like biology, physics,
 or chemistry?" Kind of. There is research and testing involved, but we don't get
 a fancy lab coat. "Then what in the world does a computer scientist do?"
 
-He flips to the next slide and proceeds on to saying, "We're just professional problem solvers."
+He flips to the next slide and proceeds on to saying, "We're just professional
+problem solvers." That definition has stuck to me ever since, because I knew
+this was what I wanted to do. Not only to solve problems, but to create
+solutions as optimally as possible. I'm the type of person that would sit down
+and think to myself, "What can I do to make it better?" I incorporate this
+mindset into everything that I do, because there isn't a perfect solution yet to
+a lot of the problems we encounter, but there is always some room for improving
+those solutions. Maybe there's a better and faster algorithm that should be
+used. Maybe the product needs to be more user-friendly. I might not be the
+genius that would come out with some sort of groundbreaking code (although that
+would be pretty cool), but on a practical level, I want to be the type of person
+that can come up with reliable and optimal solutions that can be used by people
+throughout their every day lives - with or without code.
