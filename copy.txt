@@ -4,3 +4,17 @@ bachelor's and master's degree in computer science. Some of my favorite hobbies
 to do include video gaming, bowling, volleyball, and playing the piano. I also
 enjoy listening to all kinds of music, but I would say my favorite genres are
 R&B, hip hop, blues, jazz, ballads, and sometimes classical.
+
+I think my earliest influence towards computer science would be from my own
+father, who is an IT in his own work. Probably one of the most memorable tidbits
+would be while I was in grade school, where he would take me with him to my
+school to help set up the new computer lab, even though I definitely had maybe a
+ten percent understanding of what we were actually doing on a technical level.
+However, it took me until my senior year of high school to actually be
+introduced to the field of computer science via an AP course. I was really
+intrigued learning how to program and creating algorithms that I kind of jumped
+into my first coding competition with probably a month and a half of basic Java
+knowledge. I didn't know much, but brute force got me and my partner 13th out of
+40 pairs, a free shirt, and new knowledge of functionalities that I haven't
+learned yet. The awe, frustration, and excitement I felt from that day inspired
+me to continue to follow this computing path.
