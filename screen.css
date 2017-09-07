@@ -65,8 +65,22 @@ html {
 
 h1 {
 	border-bottom: 2px solid;
-	padding: 10px 10px;
+	padding: 10px 0px;
 	font-family: avantgarde;
-	font-size: 40px;
+	font-size: 44px;
 	text-align: center;
+}
+
+h2 {
+	margin: 18px;
+	text-align: center;
+	font-family: avantgarde;
+	font-size: 30px;
+}
+
+p {
+	margin: 10px;
+	font-family: timesnewroman;
+	font-size: 20px;
+	line-height: 24px;
 }
