@@ -65,22 +65,27 @@ html {
 
 h1 {
 	border-bottom: 2px solid;
-	padding: 10px 0px;
+	padding: 16px 0px;
 	font-family: avantgarde;
 	font-size: 44px;
 	text-align: center;
 }
 
 h2 {
-	margin: 18px;
+	margin: 10px;
+	border-bottom: 2px solid;
 	text-align: center;
 	font-family: avantgarde;
 	font-size: 30px;
 }
 
 p {
-	margin: 10px;
+	margin: 12px 10px;
 	font-family: timesnewroman;
 	font-size: 20px;
-	line-height: 24px;
+	line-height: 26px;
+}
+
+p + p {
+	margin-top: 24px;
 }
