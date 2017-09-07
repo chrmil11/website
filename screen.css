@@ -58,3 +58,15 @@ table {
 	Spacing between h2, h2?
 	Footer stoof
 	*/
+
+html {
+	margin: 10px 64px;
+}
+
+h1 {
+	border-bottom: 2px solid;
+	padding: 10px 10px;
+	font-family: avantgarde;
+	font-size: 40px;
+	text-align: center;
+}
