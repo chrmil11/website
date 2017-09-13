@@ -60,33 +60,30 @@ table {
 	*/
 
 html {
-	margin: 10px 64px;
+	font-size: 1.25em; /* 20 / 16 = 1.25em */
+	line-height: 1.4em; /* 28 / 20 = 1.3em */
+	padding: 2.6em 1.3em;
 }
 
 h1 {
 	border-bottom: 2px solid;
-	padding: 16px 0px;
+	padding: .325em 0;
 	font-family: avantgarde;
-	font-size: 44px;
+	font-size: 2.2em; /* 44 / 20 = 2.2em */
+	line-height: 1.4em;
 	text-align: center;
 }
 
 h2 {
-	margin: 10px;
-	padding: 8px 0px;
+	padding: .325em 0;
 	border-bottom: 2px solid;
 	text-align: center;
 	font-family: avantgarde;
-	font-size: 30px;
+	font-size: 1.5em; /* 30 / 20 = 1.5em */
+	line-height: 1.4em;
 }
 
 p {
-	margin: 12px 10px;
 	font-family: timesnewroman;
-	font-size: 20px;
-	line-height: 26px;
-}
-
-p + p {
-	margin-top: 24px;
+	padding-bottom: 1.4em;
 }
