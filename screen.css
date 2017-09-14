@@ -75,16 +75,17 @@ h1 {
 	border-bottom: 2px solid;
 	font-family: avantgarde;
 	font-size: 2.2em; /* 44 / 20 = 2.2em */
-	line-height: 1.4em;
+	line-height: 1.2em;
 	text-align: center;
 }
 
 h2 {
+	padding: 0.3em 0;
 	border-bottom: 2px solid;
 	text-align: center;
 	font-family: avantgarde;
 	font-size: 1.5em; /* 30 / 20 = 1.5em */
-	line-height: 1.4em;
+	line-height: 1.2em;
 }
 
 p {
