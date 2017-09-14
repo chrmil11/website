@@ -90,3 +90,14 @@ p {
 	font-family: timesnewroman;
 	padding-bottom: 1.4em;
 }
+
+footer {
+	text-align: center;
+	font-size: .8em;
+	margin-top: 2.8em;
+	border-top: 1px solid;
+}
+
+h2 + p {
+	padding-top: 1.4em;
+}
