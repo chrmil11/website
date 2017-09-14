@@ -66,13 +66,12 @@ html {
 	text-size-adjust: 100%;
 	font-size: 1.25em; /* 20 / 16 = 1.25em */
 	line-height: 1.4em; /* 28 / 20 = 1.4em */
-	padding: 2.8em 1.4em;
+	padding: 1.4em 1.4em;
 	background-color: whitesmoke;
 }
 
 h1 {
 	padding: 0.35em 0;
-	border-bottom: 2px solid;
 	font-family: avantgarde;
 	font-size: 2.2em; /* 44 / 20 = 2.2em */
 	line-height: 1.2em;
