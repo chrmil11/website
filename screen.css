@@ -80,12 +80,13 @@ h1 {
 }
 
 h2 {
-	padding: 0.3em 0;
-	border-bottom: 2px solid;
+	padding: 0.325em 0;
 	text-align: center;
 	font-family: avantgarde;
 	font-size: 1.5em; /* 30 / 20 = 1.5em */
 	line-height: 1.2em;
+	background-color: #811;
+	color: white;
 }
 
 p {
