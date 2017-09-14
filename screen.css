@@ -67,6 +67,7 @@ html {
 	font-size: 1.25em; /* 20 / 16 = 1.25em */
 	line-height: 1.4em; /* 28 / 20 = 1.4em */
 	padding: 2.8em 1.4em;
+	background-color: whitesmoke;
 }
 
 h1 {
